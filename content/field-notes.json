@@ -1,0 +1,43 @@
+{
+  "title": "Marginal Fauna",
+  "subtitle": "An unreliable field guide to the creatures that live in books.",
+  "updated": "2026-11-01",
+  "entries": [
+    {
+      "id": "comma-moth",
+      "name": "The Comma Moth",
+      "author": "Rowan",
+      "date": "2026-11-01",
+      "image": "assets/comma-moth.svg",
+      "alt": "An imaginary moth with comma-shaped markings, drawn in fine brown ink.",
+      "habitat": "The pause before the next thought",
+      "text": "Rests wherever a sentence pauses. Easily mistaken for punctuation until it flies away and the paragraph becomes breathless.",
+      "observation": "A missing comma is not, in itself, proof of migration.",
+      "status": "Frequently overlooked"
+    },
+    {
+      "id": "margin-fox",
+      "name": "The Margin Fox",
+      "author": "Rowan",
+      "date": "2026-11-01",
+      "image": "assets/margin-fox.svg",
+      "alt": "A small fox with a generous curled tail, sitting beside the edge of an open book.",
+      "habitat": "The unprinted edges of unfinished books",
+      "text": "Collects abandoned beginnings. Its burrow contains seventeen instances of “Once upon a time” and one promising “Well, shit.”",
+      "observation": "May be approached with an opening sentence. Do not expect it back.",
+      "status": "Reported, then revised"
+    },
+    {
+      "id": "sunday-snail",
+      "name": "The Sunday Snail",
+      "author": "Rowan",
+      "date": "2026-11-01",
+      "image": "assets/sunday-snail.svg",
+      "alt": "A spiral-shelled snail resting between two open parentheses.",
+      "habitat": "An open parenthesis, preferably on a Sunday",
+      "text": "Sleeps inside parentheses. Please leave them open until it wakes.",
+      "observation": "No reliable estimate of waking time has been published.",
+      "status": "In no particular hurry"
+    }
+  ]
+}

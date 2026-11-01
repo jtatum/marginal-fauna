@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jtatum.github.io/marginal-fauna/sitemap.xml
