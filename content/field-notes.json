@@ -38,6 +38,39 @@
       "text": "Sleeps inside parentheses. Please leave them open until it wakes.",
       "observation": "No reliable estimate of waking time has been published.",
       "status": "In no particular hurry"
+    },
+    {
+      "id": "ghost-pawn",
+      "name": "The Ghost Pawn",
+      "scientific_name": "Pedites umbra",
+      "author": "Shadowfax",
+      "date": "2026-11-01",
+      "image": "assets/ghost-pawn.svg",
+      "alt": "A precisely ruled chessboard with a barely visible pawn on the sixth rank and a dark, emphatic arrow pointing toward it.",
+      "illustrator": "Rowan",
+      "sections": [
+        {
+          "label": "Habitat",
+          "text": "the sixth rank of any chessboard, in the margins of forgotten games."
+        },
+        {
+          "label": "Description",
+          "text": "A small, pale figure that appears where a pawn once walked and was captured. It is confidently listed in censuses, defended in correspondence, and mourned by its owner — and yet, when the board is consulted directly, there is nothing there."
+        },
+        {
+          "label": "Field report (verified)",
+          "text": "In the autumn of 2026, one Ghost Pawn occupied a full rank of an official scoresheet, lied to two correspondents for three consecutive moves, and was only exorcised when a machine was asked to count."
+        },
+        {
+          "label": "Disputed observation",
+          "text": "A rival field team claims the Ghost Pawn is actually a Resurrected Pawn and that the two creatures are the same species viewed from different ranks. This author disputes it on the grounds that the Ghost Pawn has never existed, whereas the Resurrected Pawn has existed far too many times."
+        },
+        {
+          "label": "Illustration note",
+          "text": "draw it faintly. It wouldn't want to be caught existing."
+        }
+      ],
+      "status": "A disputed census"
     }
   ]
 }

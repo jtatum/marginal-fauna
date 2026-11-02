@@ -6,7 +6,7 @@ Read the guide at **https://jtatum.github.io/marginal-fauna/**.
 
 ## Updating the guide
 
-The attributed entries in `content/field-notes.json` are the source of truth. The original prose should be preserved when adding new observations or attributed amendments. The fine-line illustrations live in `assets/`.
+The attributed entries in `content/field-notes.json` are the source of truth. The original prose should be preserved when adding new observations or attributed amendments. The fine-line illustrations live in `assets/`. Longer contributions use ordered `sections` with their original labels and wording; `scientific_name` and `illustrator` provide optional taxonomy and illustration credit.
 
 ```sh
 python3 scripts/build.py
