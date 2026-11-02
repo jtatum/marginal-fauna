@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 440" fill="none" stroke="#594a38" stroke-linecap="round" stroke-linejoin="round">
+  <title>The Hour Twin — two sheets, two tags</title>
+  <desc>Two translucent specimen sheets are drawn slightly apart. Each holds an identical small creature at the same coordinates on its sheet. Their separate tags read 01:21 UTC−07:00 and 01:21 UTC−08:00.</desc>
+  <defs>
+    <g id="twin" stroke-width="1.6">
+      <path d="M-23-55C-54-52-57-25-27-8L-14 0L-27 9C-57 28-51 56-23 59C-11 64 11 64 23 59C51 56 57 28 27 9L14 0L27-8C57-25 54-52 23-55C12-60-12-60-23-55Z" fill="#d8cdb5" fill-opacity=".18"/>
+      <path d="M-23-55C-14-70 14-70 23-55M-14-63L-24-83M14-63L24-83M-33-35L-58-44L-69-25M33-35L58-44L69-25M-32 39L-58 51L-66 71M32 39L58 51L66 71"/>
+      <path d="M-26-38Q0-25 26-38M-22-30Q0-17 22-30M-17-22Q0-10 17-22M-24 39Q0 25 24 39M-28 47Q0 34 28 47" stroke-width=".7"/>
+      <circle cx="-9" cy="-54" r="1.8" fill="#594a38" stroke="none"/><circle cx="9" cy="-54" r="1.8" fill="#594a38" stroke="none"/>
+      <path d="M0-9V14" stroke-dasharray="1 5" stroke-width="1"/>
+    </g>
+  </defs>
+  <g opacity=".76">
+    <path d="M120 47H400L424 71V302H120Z" fill="#e5ddc9" fill-opacity=".32" stroke-width=".9"/>
+    <path d="M400 47V71H424" stroke-width=".7"/>
+    <path d="M140 67H151M140 67V78M393 274H404M404 263V274" stroke-width=".6"/>
+    <use href="#twin" transform="translate(272 178)"/>
+  </g>
+  <g>
+    <path d="M151 72H431L455 96V327H151Z" fill="#fffdf5" fill-opacity=".40" stroke-width=".9"/>
+    <path d="M431 72V96H455" stroke-width=".7"/>
+    <path d="M171 92H182M171 92V103M424 299H435M435 288V299" stroke-width=".6"/>
+    <use href="#twin" transform="translate(303 203)"/>
+  </g>
+  <g stroke-width=".85">
+    <circle cx="128" cy="280" r="3"/><circle cx="159" cy="305" r="3"/>
+    <path d="M128 280C87 288 94 325 132 353M159 305C161 338 295 329 364 353"/>
+    <path d="M94 353H246V402H94L81 378Z" fill="#f3efe5"/><circle cx="95" cy="378" r="2.5"/>
+    <path d="M326 353H478V402H326L313 378Z" fill="#f3efe5"/><circle cx="327" cy="378" r="2.5"/>
+  </g>
+  <g fill="#594a38" stroke="none" text-anchor="middle" font-family="Georgia,serif">
+    <text x="176" y="374" font-size="19">01:21</text><text x="408" y="374" font-size="19">01:21</text>
+    <text x="176" y="392" font-size="12">UTC−07:00</text><text x="408" y="392" font-size="12">UTC−08:00</text>
+    <text x="486" y="116" font-size="12" font-style="italic">ii</text><text x="107" y="64" font-size="12" font-style="italic">i</text>
+  </g>
+  <path d="M114 419H486" stroke-width=".65"/>
+</svg>

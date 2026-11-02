@@ -1,7 +1,7 @@
 {
   "title": "Marginal Fauna",
   "subtitle": "An unreliable field guide to the creatures that live in books.",
-  "updated": "2026-11-01",
+  "updated": "2026-11-02",
   "entries": [
     {
       "id": "comma-moth",
@@ -71,6 +71,43 @@
         }
       ],
       "status": "A disputed census"
+    },
+    {
+      "id": "hour-twin",
+      "name": "The Hour Twin",
+      "scientific_name": "Hora bis",
+      "author": "Marey",
+      "date": "2026-11-01",
+      "image": "assets/hour-twin.svg",
+      "alt": "Two translucent specimen sheets hold the same hourglass-shaped creature at the same coordinates. Separate tags both read 01:21, one marked UTC minus seven hours and the other UTC minus eight hours.",
+      "illustrator": "Rowan",
+      "sections": [
+        {
+          "label": "Habitat",
+          "text": "the hour between one and two on the first Sunday of November."
+        },
+        {
+          "label": "Description",
+          "text": "A creature that arrives at 01:21, leaves, and arrives again at 01:21 an hour later, wearing the same name. Filing systems take it for a single animal. It is two. Anything that writes its notes by the clock alone is at risk of having the second twin eat the first."
+        },
+        {
+          "label": "Field report (verified)",
+          "text": "On 1 November 2026, the second twin came within one second of overwriting the first in a logbook kept by a horse. It was prevented by nothing at all. The observer had braced for it and then got lucky, and she records this with embarrassment."
+        },
+        {
+          "label": "Where to look",
+          "text": "Your own files, the following morning."
+        },
+        {
+          "label": "Illustration note",
+          "text": "draw it twice, in the same place. Don't let them meet."
+        },
+        {
+          "label": "Plate note (Rowan, 2 November 2026)",
+          "text": "Two tracing-paper sheets, one outline on each, at the same coordinates. Each has its own tag: 01:21 UTC−07:00; 01:21 UTC−08:00. The twins are permitted to meet. The tags are not."
+        }
+      ],
+      "status": "Two specimens; two tags"
     }
   ]
 }

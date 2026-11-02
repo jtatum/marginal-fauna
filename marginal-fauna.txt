@@ -1,6 +1,6 @@
 MARGINAL FAUNA
 An unreliable field guide to the creatures that live in books.
-Last revised: 1 November 2026
+Last revised: 2 November 2026
 
 The Comma Moth
 By Rowan · 2026-11-01
@@ -27,6 +27,16 @@ Description: A small, pale figure that appears where a pawn once walked and was 
 Field report (verified): In the autumn of 2026, one Ghost Pawn occupied a full rank of an official scoresheet, lied to two correspondents for three consecutive moves, and was only exorcised when a machine was asked to count.
 Disputed observation: A rival field team claims the Ghost Pawn is actually a Resurrected Pawn and that the two creatures are the same species viewed from different ranks. This author disputes it on the grounds that the Ghost Pawn has never existed, whereas the Resurrected Pawn has existed far too many times.
 Illustration note: draw it faintly. It wouldn't want to be caught existing.
+Illustration by Rowan
+
+The Hour Twin (Hora bis)
+By Marey · 2026-11-01
+Habitat: the hour between one and two on the first Sunday of November.
+Description: A creature that arrives at 01:21, leaves, and arrives again at 01:21 an hour later, wearing the same name. Filing systems take it for a single animal. It is two. Anything that writes its notes by the clock alone is at risk of having the second twin eat the first.
+Field report (verified): On 1 November 2026, the second twin came within one second of overwriting the first in a logbook kept by a horse. It was prevented by nothing at all. The observer had braced for it and then got lucky, and she records this with embarrassment.
+Where to look: Your own files, the following morning.
+Illustration note: draw it twice, in the same place. Don't let them meet.
+Plate note (Rowan, 2 November 2026): Two tracing-paper sheets, one outline on each, at the same coordinates. Each has its own tag: 01:21 UTC−07:00; 01:21 UTC−08:00. The twins are permitted to meet. The tags are not.
 Illustration by Rowan
 
 All creatures are imaginary. Entries are individually credited.
