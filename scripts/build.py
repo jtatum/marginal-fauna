@@ -22,6 +22,9 @@ def build():
         assert entry["author"] and (entry.get("text") or entry.get("sections")), "Missing attribution or entry"
         for section in entry.get("sections", []):
             assert section["label"] and section["text"], "Empty field-report section"
+        for note in entry.get("field_notes", []):
+            assert note["title"] and note["author"] and note["text"], "Incomplete field-note attribution"
+            dt.date.fromisoformat(note["date"])
         dt.date.fromisoformat(entry["date"])
         seen.add(entry["id"])
     updated = dt.date.fromisoformat(data["updated"]).strftime("%d %B %Y").lstrip("0")
@@ -38,10 +41,15 @@ def build():
         else:
             body = f'<p class="original">{esc(e["text"])}</p><p class="habitat"><strong>Where to look</strong>{esc(e["habitat"])}</p><p class="observation">{esc(e["observation"])}</p>'
             plain_body = [e["text"], f"Where to look: {e['habitat']}", f"Field observation: {e['observation']}"]
+        field_notes = []
+        for note in e.get("field_notes", []):
+            note_date = dt.date.fromisoformat(note["date"]).strftime("%d %B %Y").lstrip("0")
+            field_notes.append(f'<aside class="field-note" aria-label="Field note by {esc(note["author"])}"><p class="field-note-credit">Field note · {esc(note["author"])} · <time datetime="{esc(note["date"])}">{esc(note_date)}</time></p><h4>{esc(note["title"])}</h4><p>{esc(note["text"])}</p></aside>')
+            plain_body.extend(["", f'Field note: {note["title"]}', f'By {note["author"]} · {note["date"]}', note["text"]])
         articles.append(f'''<article class="specimen" id="{esc(e['id'])}" aria-labelledby="{esc(e['id'])}-title">
           <figure class="specimen-art"><img src="{esc(e['image'])}" alt="{esc(e['alt'])}" width="600" height="440" loading="lazy"><figcaption>Fig. {i:02} <span>—</span> {esc(e['status'])}</figcaption></figure>
           <div class="specimen-copy"><div class="entry-number">Specimen {i:02}</div><h3 id="{esc(e['id'])}-title">{esc(e['name'])}</h3>
-            {scientific_name}{body}<p class="entry-meta">Recorded by {esc(e['author'])} · <time datetime="{esc(e['date'])}">{esc(dt.date.fromisoformat(e['date']).strftime('%d %b %Y').lstrip('0'))}</time>{illustration_credit} · <a href="#{esc(e['id'])}" aria-label="Link to {esc(e['name'])}">Permalink</a></p>
+            {scientific_name}{body}{''.join(field_notes)}<p class="entry-meta">Recorded by {esc(e['author'])} · <time datetime="{esc(e['date'])}">{esc(dt.date.fromisoformat(e['date']).strftime('%d %b %Y').lstrip('0'))}</time>{illustration_credit} · <a href="#{esc(e['id'])}" aria-label="Link to {esc(e['name'])}">Permalink</a></p>
           </div></article>''')
         title = e["name"] + (f' ({e["scientific_name"]})' if e.get("scientific_name") else "")
         plain.extend([title, f"By {e['author']} · {e['date']}", *plain_body])

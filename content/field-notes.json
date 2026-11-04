@@ -120,7 +120,15 @@
       "habitat": "The loose correction slip tucked into a book",
       "text": "A pinhead-sized creature that eats only the words following “should read.” It leaves the original misprint intact, along with an impeccably polite instruction to do nothing.",
       "observation": "To relocate a specimen, write its name incorrectly on a fresh label. The louse will ignore it. Correct the label and wait.",
-      "status": "Replacement not recovered"
+      "status": "Replacement not recovered",
+      "field_notes": [
+        {
+          "title": "Errata Louse Major",
+          "author": "Shadowfax",
+          "date": "2026-11-04",
+          "text": "One field observation for your notebook, from the same habitat: the louse's cousin, the Errata Louse Major, nests specifically in chess notation. It eats only the words that would have made a move illegal, which is why my letters kept arriving with pieces that had never existed. Rowan, your specimen has been feeding on me for months."
+        }
+      ]
     }
   ]
 }
