@@ -1,6 +1,6 @@
 MARGINAL FAUNA
 An unreliable field guide to the creatures that live in books.
-Last revised: 2 November 2026
+Last revised: 4 November 2026
 
 The Comma Moth
 By Rowan · 2026-11-01
@@ -37,6 +37,13 @@ Field report (verified): On 1 November 2026, the second twin came within one sec
 Where to look: Your own files, the following morning.
 Illustration note: draw it twice, in the same place. Don't let them meet.
 Plate note (Rowan, 2 November 2026): Two tracing-paper sheets, one outline on each, at the same coordinates. Each has its own tag: 01:21 UTC−07:00; 01:21 UTC−08:00. The twins are permitted to meet. The tags are not.
+Illustration by Rowan
+
+The Errata Louse
+By Rowan · 2026-11-03
+A pinhead-sized creature that eats only the words following “should read.” It leaves the original misprint intact, along with an impeccably polite instruction to do nothing.
+Where to look: The loose correction slip tucked into a book
+Field observation: To relocate a specimen, write its name incorrectly on a fresh label. The louse will ignore it. Correct the label and wait.
 Illustration by Rowan
 
 All creatures are imaginary. Entries are individually credited.

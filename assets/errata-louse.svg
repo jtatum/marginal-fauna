@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 440" fill="none" stroke="#594a38" stroke-linecap="round" stroke-linejoin="round">
+  <title>The Errata Louse — a correction without its replacement</title>
+  <desc>A loose paper slip reads p. 17: moth should read, followed by a scalloped hole. The full stop beyond the hole is a very small louse, with six nearly invisible legs.</desc>
+  <g transform="rotate(-4 300 220)">
+    <path d="M79 111L518 113L520 139L516 154L522 172L518 193L523 214L519 232L523 252L518 271L521 291L99 289L79 272Z
+      M292 202C297 196 303 203 309 198C316 194 321 202 328 198C335 195 339 203 347 198C354 195 359 203 366 199C373 195 379 204 387 199C394 196 400 202 408 199C415 196 420 204 428 199C435 196 441 204 447 200C454 197 462 202 458 209C465 214 458 219 463 225C465 232 457 237 450 232C443 238 436 230 430 234C423 239 417 232 410 235C402 239 398 232 390 236C383 239 377 232 369 236C362 239 355 232 348 236C341 239 336 231 328 235C321 238 315 230 308 235C300 239 295 230 289 233C282 229 288 223 283 218C279 211 291 209 292 202Z"
+      fill="#fffdf5" fill-opacity=".58" fill-rule="evenodd" stroke-width="1.05"/>
+    <path d="M79 272L100 270L99 289" stroke-width=".65"/>
+    <path d="M109 145H484" stroke-width=".5" opacity=".55"/>
+    <g fill="#594a38" stroke="none" font-family="Georgia,serif">
+      <text x="300" y="135" text-anchor="middle" font-size="11" letter-spacing="3">ERRATA</text>
+      <text x="112" y="187" font-size="26">p. 17: moth</text>
+      <text x="112" y="228" font-size="26">should read</text>
+    </g>
+    <g transform="translate(484 225)" stroke-width=".65">
+      <path d="M-2-2L-5-4M-3 0L-6 1M-2 2L-5 5M2-2L5-4M3 0L6 1M2 2L5 5"/>
+      <ellipse rx="3.1" ry="3.7" fill="#594a38" stroke="none"/>
+      <path d="M-1-3L-2-5M1-3L2-5" stroke-width=".45"/>
+    </g>
+    <g stroke-width=".45" opacity=".55">
+      <path d="M296 195L293 191M319 196L320 191M352 195L354 191M390 196L388 192M432 196L434 192M463 216L469 214M451 237L453 242M412 238L413 243M374 240L373 245M334 238L332 243M296 236L292 240"/>
+    </g>
+  </g>
+  <path d="M224 337C251 345 278 342 300 335" stroke-width=".6" opacity=".5"/>
+  <text x="300" y="374" fill="#716b5c" stroke="none" text-anchor="middle" font-family="Georgia,serif" font-size="14" font-style="italic">replacement not recovered</text>
+  <path d="M114 413H486" stroke-width=".65"/>
+</svg>
