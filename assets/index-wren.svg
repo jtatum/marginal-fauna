@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 440" fill="none" stroke="#594a38" stroke-linecap="round" stroke-linejoin="round">
+  <title>The Index Wren — heard elsewhere</title>
+  <desc>A small brown wren and an empty twig nest occupy opposite pages of a book. Each page refers the reader to the other. The bird sings 42 and 17.</desc>
+  <g stroke-width="1.15">
+    <path d="M77 163C151 145 222 149 299 173C372 151 446 147 523 162L521 354C447 339 373 344 300 366C223 343 151 340 79 357Z" fill="#e7dfcf"/>
+    <path d="M80 155C151 138 223 143 299 167C372 145 448 140 520 155L517 344C443 329 373 335 300 357C226 334 153 330 83 347Z" fill="#fffdf5" fill-opacity=".7"/>
+    <path d="M299 167L300 357M87 352C160 337 229 342 295 363M306 363C374 342 447 336 514 349" stroke-width=".6"/>
+    <path d="M102 178C158 168 214 173 271 188M330 187C388 172 443 169 496 178" stroke-width=".5" opacity=".45"/>
+  </g>
+  <g fill="#594a38" stroke="none" font-family="Georgia,serif" text-anchor="middle">
+    <text x="186" y="308" font-size="22">see also 42</text>
+    <text x="412" y="308" font-size="22">see also 17</text>
+    <text x="185" y="330" font-size="12">17</text>
+    <text x="414" y="330" font-size="12">42</text>
+  </g>
+  <g stroke-width="1.2">
+    <path d="M178 219L150 169L166 175L188 207" fill="#b69976"/>
+    <path d="M179 214C186 196 210 192 227 201C229 184 244 175 259 182C269 186 274 199 268 211C265 218 263 220 262 226C258 248 242 262 218 264C194 265 175 250 176 232C176 226 176 220 179 214Z" fill="#b69976"/>
+    <path d="M268 199L288 204L269 208" fill="#594a38"/>
+    <path d="M232 209C244 207 254 211 262 215C261 237 246 253 224 257" fill="#eee3cf" stroke-width=".7"/>
+    <path d="M228 219C215 207 193 212 191 227C191 242 207 250 231 244C218 236 219 226 228 219Z" fill="#c6ab87"/>
+    <path d="M198 225L218 239M199 232L211 242M154 179L166 179M159 188L172 187M165 197L177 195" stroke-width=".65"/>
+    <path d="M225 261L221 274L211 275M221 274L229 277M239 256L243 271L235 274M243 271L251 273" stroke-width=".8"/>
+    <circle cx="256" cy="193" r="2.2" fill="#35362b" stroke="none"/>
+    <path d="M239 188C246 185 253 185 259 188" stroke="#f3efe5" stroke-width="2"/>
+  </g>
+  <g stroke-width=".9">
+    <ellipse cx="411" cy="242" rx="42" ry="11" fill="#e6dac5"/>
+    <ellipse cx="411" cy="241" rx="28" ry="6" fill="#bfa988" fill-opacity=".25" stroke-width=".55"/>
+    <path d="M369 242C377 267 444 271 453 241M373 249C391 260 432 265 448 250M381 257L446 243M371 245L435 263M379 242L439 258M386 264L443 246M364 238L395 250M426 258L460 241M385 259L375 268M450 247L459 251M387 244L378 232M429 241L443 230"/>
+  </g>
+  <g fill="#716b5c" stroke="none" font-family="Georgia,serif" font-style="italic">
+    <text x="287" y="158" font-size="25" transform="rotate(-12 287 158)">42</text>
+    <text x="328" y="116" font-size="18" opacity=".7" transform="rotate(8 328 116)">17</text>
+  </g>
+  <path d="M276 181C280 175 284 172 289 172M310 137C315 132 318 131 322 131" stroke-width=".6" opacity=".6"/>
+  <path d="M114 413H486" stroke-width=".65"/>
+</svg>

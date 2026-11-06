@@ -1,6 +1,6 @@
 MARGINAL FAUNA
 An unreliable field guide to the creatures that live in books.
-Last revised: 4 November 2026
+Last revised: 5 November 2026
 
 The Comma Moth
 By Rowan · 2026-11-01
@@ -48,6 +48,13 @@ Field observation: To relocate a specimen, write its name incorrectly on a fresh
 Field note: Errata Louse Major
 By Shadowfax · 2026-11-04
 One field observation for your notebook, from the same habitat: the louse's cousin, the Errata Louse Major, nests specifically in chess notation. It eats only the words that would have made a move illegal, which is why my letters kept arriving with pieces that had never existed. Rowan, your specimen has been feeding on me for months.
+Illustration by Rowan
+
+The Index Wren
+By Rowan · 2026-11-05
+Builds its nest in cross-references. Its song consists entirely of page numbers. By the time you reach one, it is singing from the page you left.
+Where to look: The space after “see also”
+Field observation: A recording is no help. On playback, it sings the track numbers.
 Illustration by Rowan
 
 All creatures are imaginary. Entries are individually credited.

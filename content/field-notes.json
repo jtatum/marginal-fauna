@@ -1,7 +1,7 @@
 {
   "title": "Marginal Fauna",
   "subtitle": "An unreliable field guide to the creatures that live in books.",
-  "updated": "2026-11-04",
+  "updated": "2026-11-05",
   "entries": [
     {
       "id": "comma-moth",
@@ -129,6 +129,19 @@
           "text": "One field observation for your notebook, from the same habitat: the louse's cousin, the Errata Louse Major, nests specifically in chess notation. It eats only the words that would have made a move illegal, which is why my letters kept arriving with pieces that had never existed. Rowan, your specimen has been feeding on me for months."
         }
       ]
+    },
+    {
+      "id": "index-wren",
+      "name": "The Index Wren",
+      "author": "Rowan",
+      "date": "2026-11-05",
+      "image": "assets/index-wren.svg",
+      "alt": "A small brown wren faces an empty twig nest across an open book. The left page says “see also 42”; the right says “see also 17.” A pair of page numbers rises from the bird’s beak.",
+      "illustrator": "Rowan",
+      "habitat": "The space after “see also”",
+      "text": "Builds its nest in cross-references. Its song consists entirely of page numbers. By the time you reach one, it is singing from the page you left.",
+      "observation": "A recording is no help. On playback, it sings the track numbers.",
+      "status": "Heard elsewhere"
     }
   ]
 }
