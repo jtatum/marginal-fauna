@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 440" fill="none" stroke="#594a38" stroke-linecap="round" stroke-linejoin="round">
+  <title>The Dog-ear Bat — keeping your place</title>
+  <desc>A book page has a folded upper corner, shaped like a closed bat wing. Small printed words cross the fold upside down. A fine claw holds the outer edge.</desc>
+  <path d="M139 77H353L484 197V362H139Z" fill="#e4dbc9" stroke-width=".7"/>
+  <path d="M132 70H349L477 193V355H132Z" fill="#eee7d8" stroke-width=".8"/>
+  <path d="M125 63H346L470 187V348H125Z" fill="#fffdf5" fill-opacity=".72" stroke-width="1.1"/>
+  <path d="M132 350H468M140 357H477" stroke-width=".5" opacity=".6"/>
+  <g stroke-width=".65" opacity=".38">
+    <path d="M158 109H307M158 121H320M158 133H298M158 145H315M158 157H279"/>
+    <path d="M158 205H433M158 217H428M158 229H437M158 241H414M158 253H431M158 265H304"/>
+    <path d="M158 291H433M158 303H419"/>
+  </g>
+  <path d="M349 69L474 190L357 192Z" fill="#594a38" fill-opacity=".08" stroke="none"/>
+  <path d="M346 63L470 187C457 181 449 183 439 191C429 181 417 180 406 191C394 180 380 181 367 191L346 187Z" fill="#dfd2b9" stroke-width="1.2"/>
+  <path d="M346 63C353 102 357 148 367 191M346 63C364 109 384 153 406 191M346 63C380 109 413 153 439 191" stroke-width=".65" opacity=".7"/>
+  <path d="M350 68L465 184" stroke="#f9f4e7" stroke-width="1.4"/>
+  <g transform="rotate(180 405 151)" stroke-width=".55" opacity=".62">
+    <path d="M372 128H439M377 138H436M392 161H433"/>
+    <text x="388" y="153" fill="#594a38" stroke="none" font-family="Georgia,serif" font-size="8.5" letter-spacing=".35">at the close</text>
+  </g>
+  <path d="M460 183C469 179 478 183 477 190C476 196 471 198 469 194C468 192 469 189 471 188M466 184C475 182 482 186 481 191C480 195 478 196 476 194" stroke-width="1"/>
+  <path d="M343 66L343 87M350 189L361 189" stroke-width=".6" opacity=".55"/>
+  <text x="297" y="330" text-anchor="middle" fill="#716b5c" stroke="none" font-family="Georgia,serif" font-size="11">63</text>
+  <path d="M114 413H486" stroke-width=".65"/>
+</svg>

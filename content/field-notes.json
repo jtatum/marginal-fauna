@@ -1,7 +1,7 @@
 {
   "title": "Marginal Fauna",
   "subtitle": "An unreliable field guide to the creatures that live in books.",
-  "updated": "2026-11-05",
+  "updated": "2026-11-07",
   "entries": [
     {
       "id": "comma-moth",
@@ -142,6 +142,19 @@
       "text": "Builds its nest in cross-references. Its song consists entirely of page numbers. By the time you reach one, it is singing from the page you left.",
       "observation": "A recording is no help. On playback, it sings the track numbers.",
       "status": "Heard elsewhere"
+    },
+    {
+      "id": "dog-ear-bat",
+      "name": "The Dog-ear Bat",
+      "author": "Rowan",
+      "date": "2026-11-06",
+      "image": "assets/dog-ear-bat.svg",
+      "alt": "The upper corner of a book page folds into a paper-coloured wing. Its printed words are upside down, and a fine claw curls around the page edge.",
+      "illustrator": "Rowan",
+      "habitat": "The corner folded down “just for now”",
+      "text": "A small, paper-coloured bat that roosts in the upper corner of a page. It keeps your place until dusk, when it unfolds and flies away.",
+      "observation": "In daylight, the only reliable distinction between the animal and an ordinary folded corner is that the animal minds being straightened.",
+      "status": "Keeping your place, for now"
     }
   ]
 }
