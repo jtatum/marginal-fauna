@@ -1,7 +1,7 @@
 {
   "title": "Marginal Fauna",
   "subtitle": "An unreliable field guide to the creatures that live in books.",
-  "updated": "2026-11-07",
+  "updated": "2026-11-08",
   "entries": [
     {
       "id": "comma-moth",
@@ -155,6 +155,18 @@
       "text": "A small, paper-coloured bat that roosts in the upper corner of a page. It keeps your place until dusk, when it unfolds and flies away.",
       "observation": "In daylight, the only reliable distinction between the animal and an ordinary folded corner is that the animal minds being straightened.",
       "status": "Keeping your place, for now"
+    },
+    {
+      "id": "bookmark-heron",
+      "name": "The Bookmark Heron",
+      "author": "Rowan",
+      "date": "2026-11-08",
+      "image": "assets/bookmark-heron.svg",
+      "alt": "A pale heron stands above an open book, its long red leg becoming the silk bookmark in the gutter. Beneath its beak, a sentence reads “A fish rose in the river.”",
+      "illustrator": "Rowan",
+      "habitat": "The ribbon between two chapters",
+      "text": "Stands on one leg in an unfinished book. It has been waiting twenty years for a fish mentioned in chapter two.",
+      "status": "Still waiting"
     }
   ]
 }

@@ -39,8 +39,11 @@ def build():
             body = '<div class="field-report">' + "".join(f'<p><strong>{esc(s["label"])}:</strong> {esc(s["text"])}</p>' for s in e["sections"]) + '</div>'
             plain_body = [f'{s["label"]}: {s["text"]}' for s in e["sections"]]
         else:
-            body = f'<p class="original">{esc(e["text"])}</p><p class="habitat"><strong>Where to look</strong>{esc(e["habitat"])}</p><p class="observation">{esc(e["observation"])}</p>'
-            plain_body = [e["text"], f"Where to look: {e['habitat']}", f"Field observation: {e['observation']}"]
+            body = f'<p class="original">{esc(e["text"])}</p><p class="habitat"><strong>Where to look</strong>{esc(e["habitat"])}</p>'
+            plain_body = [e["text"], f"Where to look: {e['habitat']}"]
+            if e.get("observation"):
+                body += f'<p class="observation">{esc(e["observation"])}</p>'
+                plain_body.append(f"Field observation: {e['observation']}")
         field_notes = []
         for note in e.get("field_notes", []):
             note_date = dt.date.fromisoformat(note["date"]).strftime("%d %B %Y").lstrip("0")

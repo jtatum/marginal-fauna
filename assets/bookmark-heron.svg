@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 440" fill="none" stroke="#594a38" stroke-linecap="round" stroke-linejoin="round">
+  <title>The Bookmark Heron — still waiting</title>
+  <desc>A pale heron stands above an open book. Its one long red leg becomes the silk bookmark in the gutter. On the page below its beak is a sentence about a fish.</desc>
+  <path d="M88 289C164 275 239 280 303 298C371 279 447 277 515 290L522 369C447 357 372 361 307 380C236 359 162 356 82 369Z" fill="#e5dccb" stroke-width=".75"/>
+  <path d="M92 281C164 267 239 274 303 291C370 272 445 271 511 282L515 359C443 347 373 351 306 371C236 351 163 346 87 359Z" fill="#fffdf5" fill-opacity=".7" stroke-width="1"/>
+  <path d="M303 291L306 371M88 363C160 350 237 355 307 376C374 356 447 353 518 364" stroke-width=".6" opacity=".6"/>
+  <g stroke-width=".6" opacity=".26">
+    <path d="M116 302C166 294 229 299 274 311M115 313C166 305 227 310 273 322M114 324C162 317 224 321 263 331M113 335C151 330 190 331 218 335"/>
+    <path d="M339 303C390 292 449 291 487 297M340 335C388 326 446 325 485 330M340 346C375 339 407 337 435 338"/>
+  </g>
+  <text x="414" y="320" text-anchor="middle" fill="#716b5c" stroke="none" font-family="Georgia,serif" font-size="9.5">A fish rose in the river.</text>
+  <text x="199" y="351" text-anchor="middle" fill="#847866" stroke="none" font-family="Georgia,serif" font-size="9">II</text>
+  <path d="M296 225C296 249 302 271 303 292L308 389L302 383L297 391L296 293C295 271 289 247 289 227Z" fill="#9a5147" fill-opacity=".87" stroke="#864b41" stroke-width=".6"/>
+  <path d="M299 294L303 378" stroke="#e2a08c" stroke-width=".7" opacity=".7"/>
+  <g stroke="#777265">
+    <path d="M251 224C245 205 248 183 264 171C276 162 293 166 307 175C317 181 323 185 323 178C322 169 311 161 309 149C306 131 317 114 333 110C338 106 344 104 351 106C359 107 365 113 367 120L354 127C345 124 339 123 333 129C327 137 332 146 339 155C350 169 351 185 338 199C326 213 309 222 292 228L255 245Z" fill="#dddcd0" fill-opacity=".5" stroke-width="1.05"/>
+    <path d="M265 174C291 176 310 190 315 209C299 225 276 234 255 245C269 221 271 196 265 174Z" fill="#c8c9bc" fill-opacity=".2" stroke-width=".8"/>
+    <path d="M270 186C282 193 294 204 300 216M269 196C278 203 286 213 289 222M265 207C273 212 277 221 278 229M261 217L266 237" stroke-width=".55" opacity=".6"/>
+    <path d="M333 111C340 111 347 114 352 119M326 127C318 140 324 152 334 165" stroke-width=".6"/>
+    <path d="M366 117L404 139L354 126Z" fill="#d8c8a4" stroke-width=".85"/>
+    <path d="M363 123L404 139" stroke-width=".5"/>
+    <path d="M335 110C329 101 320 101 313 106M338 109C335 100 330 96 326 96" stroke-width=".8"/>
+    <circle cx="352" cy="115" r="1.65" fill="#594a38" stroke="none"/>
+    <path d="M296 226L304 232L299 246" stroke-width=".75"/>
+  </g>
+  <path d="M114 413H486" stroke-width=".65"/>
+</svg>
