@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 440" fill="none" stroke="#594a38" stroke-linecap="round" stroke-linejoin="round">
+  <title>The Watermark Ray — found by touch</title>
+  <desc>A translucent printed sheet rests against the light of a window. A pale ray swims within its fibres, beneath the uninterrupted lines of type. The lower corner has begun to turn.</desc>
+  <defs>
+    <linearGradient id="daylight" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#fffef3" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#d4dfd8" stop-opacity=".2"/>
+    </linearGradient>
+    <linearGradient id="fibre" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#fffef7" stop-opacity=".62"/>
+      <stop offset="1" stop-color="#e7dfcb" stop-opacity=".85"/>
+    </linearGradient>
+  </defs>
+  <g stroke-width=".65" opacity=".45">
+    <path d="M112 42H488V333H112Z" fill="url(#daylight)"/>
+    <path d="M120 50H480V325H120ZM296 50V325M304 50V325M120 177H480M120 185H480"/>
+    <path d="M100 334H500L514 345H86Z" fill="#e6decd"/>
+  </g>
+  <path d="M98 361C162 345 238 348 298 365C364 347 438 348 501 361L508 392C436 381 367 382 300 401C234 383 165 379 91 391Z" fill="#ddd3bf" stroke-width=".7"/>
+  <path d="M102 352C168 338 239 342 299 358C362 341 432 340 498 352L503 382C433 370 366 374 300 391C234 373 166 370 97 381Z" fill="#fffdf4" fill-opacity=".8" stroke-width=".8"/>
+  <path d="M299 358L300 391M98 386C169 376 236 381 300 397C365 379 435 377 506 387" stroke-width=".55" opacity=".65"/>
+  <g transform="rotate(-7 300 210)">
+    <path d="M139 77C234 72 353 76 454 88L444 300C425 306 416 324 407 350C317 341 224 337 136 344C148 253 146 168 139 77Z" fill="url(#fibre)" stroke="#9c9580" stroke-width=".85"/>
+    <g stroke="#89988d">
+      <path d="M300 137C316 162 355 176 416 207C381 213 350 235 321 239C312 246 306 260 300 269C291 255 286 243 278 239C246 232 215 213 183 208C240 175 278 162 292 144Z" fill="#a8bfb6" fill-opacity=".18" stroke-width="1" stroke-opacity=".65"/>
+      <path d="M300 269C317 283 285 303 315 317C324 321 333 322 342 329" stroke-width="1.2" opacity=".65"/>
+      <path d="M295 153C281 182 270 207 278 239M307 157C321 184 330 211 321 239" stroke-width=".65" opacity=".5"/>
+      <path d="M281 173C257 187 232 199 207 206M274 188C251 201 237 209 222 215M272 203L242 225M319 174C344 187 369 199 393 207M326 189C347 201 361 210 376 215M329 205L357 226" stroke-width=".5" opacity=".36"/>
+      <path d="M291 199L290 208M296 202L295 212M306 202L307 212M311 199L312 208" stroke-width=".5" opacity=".46"/>
+      <circle cx="294" cy="175" r="1.25" fill="#89988d" stroke="none" opacity=".7"/>
+      <circle cx="307" cy="175" r="1.25" fill="#89988d" stroke="none" opacity=".7"/>
+    </g>
+    <g stroke="#847b68" stroke-width=".7" opacity=".33">
+      <path d="M168 114Q294 109 424 121M168 128Q292 123 423 135M168 142Q294 137 422 149M168 156Q294 151 421 163M168 170Q294 165 420 177M168 184Q294 179 419 191M168 198Q294 193 418 205M168 212Q294 207 417 219M168 226Q294 221 416 233M168 240Q294 235 415 247M168 254Q294 249 414 261M168 268Q294 263 413 275M168 282Q264 279 337 285"/>
+    </g>
+    <path d="M407 350C418 325 423 309 444 300C431 303 414 303 402 299C410 317 412 333 407 350Z" fill="#fffdf4" stroke="#9c9580" stroke-width=".7"/>
+    <path d="M406 309C413 314 419 317 426 317" stroke="#b7b2a1" stroke-width=".45"/>
+    <text x="291" y="320" text-anchor="middle" font-family="Georgia,serif" font-size="9" fill="#847b68" stroke="none" opacity=".65">xi</text>
+  </g>
+  <path d="M114 413H486" stroke-width=".65"/>
+</svg>

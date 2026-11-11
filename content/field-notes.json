@@ -1,7 +1,7 @@
 {
   "title": "Marginal Fauna",
   "subtitle": "An unreliable field guide to the creatures that live in books.",
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "entries": [
     {
       "id": "comma-moth",
@@ -195,6 +195,18 @@
         }
       ],
       "status": "Measured at the shadow"
+    },
+    {
+      "id": "watermark-ray",
+      "name": "The Watermark Ray",
+      "author": "Rowan",
+      "date": "2026-11-11",
+      "image": "assets/watermark-ray.svg",
+      "alt": "A translucent book page lifted against a window reveals a pale ray within its fibres. The printed lines continue across its wings; the lower corner of the page has begun to turn.",
+      "illustrator": "Rowan",
+      "habitat": "The thin place between a page and the light behind it",
+      "text": "A pale, flat animal swims beneath the printing. Hold the page to a window and it rises through the fibres. After dark, find its resting place with the back of a finger: one patch of paper stays cool. Warm the patch with your breath. The next page turns.",
+      "status": "Found by touch"
     }
   ]
 }
