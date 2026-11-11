@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 440" fill="none" stroke="#594a38" stroke-linecap="round" stroke-linejoin="round">
+  <title>The Five-Minute Ghost — measured at the shadow</title>
+  <desc>A low lamp illuminates a tiny mark on a specimen sheet. An enormous coat-shaped shadow stretches away from the mark. A measuring rule stands beside the shadow; nothing measures the mark itself.</desc>
+  <defs>
+    <linearGradient id="shadow-ink" x1="0" y1="1" x2=".8" y2="0">
+      <stop stop-color="#594a38" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#594a38" stop-opacity=".1"/>
+    </linearGradient>
+  </defs>
+  <path d="M135 66L500 66L519 85L519 366L135 366Z" fill="#fffdf5" fill-opacity=".48" stroke-width=".7"/>
+  <path d="M500 66V85H519" stroke-width=".6"/>
+  <path d="M155 86H165M155 86V96M489 346H499M499 336V346" stroke-width=".55" opacity=".45"/>
+  <g stroke-width=".6" opacity=".18"><path d="M156 105H223M156 114H207M156 123H216"/><path d="M154 344H199M154 351H187"/></g>
+  <path d="M216 322C235 306 249 286 265 264L293 204L271 211L290 162L326 140L333 111C338 95 357 92 368 101C378 110 379 124 371 137L410 152L437 194L411 206L395 180L386 236L414 281L359 289L338 266L328 299L277 296L238 325Z" fill="url(#shadow-ink)" stroke="#766d5d" stroke-opacity=".26" stroke-width=".9"/>
+  <g stroke="#776d5a" stroke-width=".65" opacity=".27"><path d="M326 140L339 164L356 148M371 137L356 148L368 170M339 164L326 241M368 170L370 240M326 241L328 278M370 240L391 269"/><path d="M301 179L286 203M303 189L296 208M404 168L421 194M399 180L411 198M284 280L277 291M292 282L286 294M301 283L296 296"/></g>
+  <path d="M166 350L215 322M166 350L222 324" stroke="#a99e85" stroke-width=".7" opacity=".35"/>
+  <path d="M215 325C211 322 212 317 215 314C218 313 221 316 220 319L218 325Z" fill="#594a38" stroke-width=".7"/>
+  <path d="M214 325L209 328M218 325L222 328" stroke-width=".6"/>
+  <ellipse cx="216" cy="328" rx="7" ry="1.5" fill="#594a38" fill-opacity=".1" stroke="none"/>
+  <g stroke-width=".95">
+    <ellipse cx="128" cy="382" rx="35" ry="8" fill="#d8c8a4" fill-opacity=".48"/>
+    <path d="M103 378C105 366 114 360 128 360C143 360 151 366 153 378" fill="#e7dcc3"/>
+    <path d="M119 361L120 339M136 361L135 339"/>
+    <ellipse cx="128" cy="339" rx="16" ry="4" fill="#e5d5b3"/>
+    <path d="M121 335C108 319 118 305 122 292C130 304 145 317 134 334Z" fill="#ede2c4" fill-opacity=".65" stroke-width=".75"/>
+    <path d="M128 334C123 327 128 319 129 316C135 324 133 329 130 334" fill="#b6874c" fill-opacity=".45" stroke-width=".55"/>
+    <path d="M128 335V330M114 374C121 370 135 370 142 374" stroke-width=".6"/>
+  </g>
+  <path d="M460 96H482V301H460Z" fill="#ded2b8" fill-opacity=".5" stroke-width=".75"/>
+  <g stroke-width=".7"><path d="M460 106H471M460 116H467M460 126H467M460 136H467M460 146H467M460 156H471M460 166H467M460 176H467M460 186H467M460 196H467M460 206H471M460 216H467M460 226H467M460 236H467M460 246H467M460 256H471M460 266H467M460 276H467M460 286H467"/></g>
+  <g fill="#716b5c" stroke="none" font-family="Georgia,serif" font-size="8" text-anchor="middle"><text x="477" y="109">0</text><text x="477" y="159">5</text><text x="476" y="209">10</text><text x="476" y="259">15</text></g>
+  <path d="M383 99H450M342 299H450" stroke-width=".5" stroke-dasharray="2 5" opacity=".5"/>
+  <path d="M114 413H486" stroke-width=".65"/>
+</svg>

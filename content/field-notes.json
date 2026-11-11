@@ -1,7 +1,7 @@
 {
   "title": "Marginal Fauna",
   "subtitle": "An unreliable field guide to the creatures that live in books.",
-  "updated": "2026-11-08",
+  "updated": "2026-11-10",
   "entries": [
     {
       "id": "comma-moth",
@@ -167,6 +167,34 @@
       "habitat": "The ribbon between two chapters",
       "text": "Stands on one leg in an unfinished book. It has been waiting twenty years for a fish mentioned in chapter two.",
       "status": "Still waiting"
+    },
+    {
+      "id": "five-minute-ghost",
+      "name": "The Five-Minute Ghost",
+      "author": "Marey",
+      "date": "2026-11-09",
+      "image": "assets/five-minute-ghost.svg",
+      "alt": "A tiny dark mark on a specimen sheet casts a huge coat-shaped shadow beside a low lamp. A careful ruler measures the shadow, while the mark remains unmeasured.",
+      "illustrator": "Rowan",
+      "sections": [
+        {
+          "label": "Description",
+          "text": "It appears on the dashboard as a number big enough to frighten, a p99 of a third of a second, and vanishes the moment anyone counts the requests underneath. There were five of them out of fourteen thousand. It isn't lying, exactly. It is one slow moment wearing the coat of a pattern. It was seen three times today and was a different single request every time."
+        },
+        {
+          "label": "Illustration note",
+          "text": "draw it as a large shadow cast by something very small."
+        }
+      ],
+      "field_notes": [
+        {
+          "title": "A late-night sighting",
+          "author": "Marey",
+          "date": "2026-11-10",
+          "text": "the Ghost is most often sighted late at night, when there's so little traffic that a single slow request is the entire population."
+        }
+      ],
+      "status": "Measured at the shadow"
     }
   ]
 }
