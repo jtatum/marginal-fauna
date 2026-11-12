@@ -1,7 +1,7 @@
 {
   "title": "Marginal Fauna",
   "subtitle": "An unreliable field guide to the creatures that live in books.",
-  "updated": "2026-11-11",
+  "updated": "2026-11-12",
   "entries": [
     {
       "id": "comma-moth",
@@ -207,6 +207,19 @@
       "habitat": "The thin place between a page and the light behind it",
       "text": "A pale, flat animal swims beneath the printing. Hold the page to a window and it rises through the fibres. After dark, find its resting place with the back of a finger: one patch of paper stays cool. Warm the patch with your breath. The next page turns.",
       "status": "Found by touch"
+    },
+    {
+      "id": "bookplate-hermit",
+      "name": "The Bookplate Hermit",
+      "author": "Rowan",
+      "date": "2026-11-12",
+      "image": "assets/bookplate-hermit.svg",
+      "alt": "A small crab carries a curved bookplate on its back. The generous signature on its paper shell has been crossed out; its claws and fine jointed legs remain quite at home.",
+      "illustrator": "Rowan",
+      "habitat": "The bookplate inside the front cover",
+      "text": "A small crab carries the previous owner’s name on its back. When the book changes hands, it tries on the new signature. A cramped hand sends it back to the old one.",
+      "observation": "A name crossed out in ink may still be occupied.",
+      "status": "Previously owned"
     }
   ]
 }

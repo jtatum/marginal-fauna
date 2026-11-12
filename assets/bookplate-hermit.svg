@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 440" fill="none" stroke="#594a38" stroke-linecap="round" stroke-linejoin="round">
+  <title>The Bookplate Hermit — previously owned</title>
+  <desc>A small crab wears a curved ownership label as a shell. Its ample handwritten name is crossed out in ink. The crab is still at home beneath it.</desc>
+  <path d="M83 66L518 75L510 365L75 356Z" fill="#e9dfcd" fill-opacity=".35" stroke-width=".65" opacity=".6"/>
+  <path d="M95 67L88 357M103 68L97 357" stroke-width=".5" opacity=".25"/>
+  <path d="M111 88L497 96L490 340L104 332Z" stroke-width=".5" opacity=".13"/>
+  <ellipse cx="300" cy="307" rx="119" ry="13" fill="#8b7760" fill-opacity=".07" stroke="none"/>
+  <g stroke-width="1.2">
+    <path d="M249 264L220 282L193 312L175 318M248 277L227 301L219 325L207 331M265 286L252 308L251 331L242 339"/>
+    <path d="M341 265L377 280L400 308L420 314M341 279L365 299L375 323L387 328M327 288L342 311L343 333L354 339"/>
+    <path d="M251 268C226 260 206 251 186 242L178 251C196 266 217 275 245 279Z" fill="#d8c4a8" fill-opacity=".55"/>
+    <path d="M341 270C364 260 386 247 400 232L408 241C394 259 374 275 346 282Z" fill="#d8c4a8" fill-opacity=".55"/>
+    <path d="M185 245C174 249 159 246 153 233C146 216 156 197 173 193L167 212L181 223L185 202C197 214 199 233 185 245Z" fill="#ddc9ae" stroke-width="1.1"/>
+    <path d="M401 235C391 225 393 209 403 198C413 187 429 186 440 195L421 198L417 215L437 207C435 224 420 241 401 235Z" fill="#ddc9ae" stroke-width="1.1"/>
+  </g>
+  <path d="M249 235C270 223 317 225 339 241L352 271C348 293 325 303 294 302C265 302 242 293 239 276Z" fill="#d5bfa0" stroke-width="1"/>
+  <path d="M256 275C279 283 318 284 339 275M268 291L274 296M321 291L315 297" stroke-width=".55" opacity=".65"/>
+  <path d="M280 279L274 264M308 279L315 264" stroke-width="1.25"/>
+  <circle cx="273" cy="262" r="2.4" fill="#594a38" stroke="none"/>
+  <circle cx="316" cy="262" r="2.4" fill="#594a38" stroke="none"/>
+  <path d="M293 285C297 287 300 287 304 284" stroke-width=".7"/>
+  <path d="M204 149C237 124 337 121 376 146L390 246C348 273 253 269 216 250Z" fill="#f9f3e5" stroke-width="1"/>
+  <path d="M216 250C252 261 348 269 390 246L384 257C346 280 253 275 219 260Z" fill="#dbceb6" stroke-width=".7"/>
+  <path d="M217 156C252 138 333 135 365 153L377 237C339 255 261 253 229 240Z" stroke-width=".6" opacity=".75"/>
+  <path d="M222 160C254 144 330 141 361 157L372 233C338 250 263 248 233 236Z" stroke-width=".45" opacity=".5"/>
+  <text x="294" y="173" text-anchor="middle" fill="#857663" stroke="none" font-family="Georgia,serif" font-size="9" letter-spacing="3">EX LIBRIS</text>
+  <g transform="rotate(-4 292 211)">
+    <text x="292" y="219" text-anchor="middle" fill="#67503a" stroke="none" font-family="Baskerville,Georgia,serif" font-style="italic" font-size="30">E. Vale</text>
+    <path d="M239 218C262 214 319 210 352 211M245 206L347 221" stroke="#8c6752" stroke-width=".85" opacity=".75"/>
+    <path d="M251 224C275 231 316 230 336 224" stroke-width=".5" opacity=".4"/>
+  </g>
+  <path d="M212 150L223 242M377 149L387 241" stroke-width=".55" opacity=".3"/>
+  <g stroke-width=".55" opacity=".35">
+    <path d="M178 229L185 232M165 225L170 232M402 216L407 224M411 217L416 223"/>
+    <path d="M230 281L233 285M225 303L229 305M369 281L366 285M374 302L370 304"/>
+  </g>
+  <path d="M114 413H486" stroke-width=".65"/>
+</svg>
