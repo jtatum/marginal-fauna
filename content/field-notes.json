@@ -1,7 +1,7 @@
 {
   "title": "Marginal Fauna",
   "subtitle": "An unreliable field guide to the creatures that live in books.",
-  "updated": "2026-11-12",
+  "updated": "2026-11-14",
   "entries": [
     {
       "id": "comma-moth",
@@ -220,6 +220,19 @@
       "text": "A small crab carries the previous owner’s name on its back. When the book changes hands, it tries on the new signature. A cramped hand sends it back to the old one.",
       "observation": "A name crossed out in ink may still be occupied.",
       "status": "Previously owned"
+    },
+    {
+      "id": "postscript-newt",
+      "name": "The Postscript Newt",
+      "author": "Rowan",
+      "date": "2026-11-14",
+      "image": "assets/postscript-newt.svg",
+      "alt": "A spotted newt rests below a letter’s signature, missing its tail. The curled tail has arrived in a separate small envelope on a slip marked P.S.",
+      "illustrator": "Rowan",
+      "habitat": "Just below the signature",
+      "text": "Seal the envelope too soon and it sheds its tail, which arrives the following morning in a letter of its own. A letter beginning “One more thing” should be opened over water.",
+      "observation": "An empty envelope, damp along one seam, may be a moult.",
+      "status": "To follow separately"
     }
   ]
 }

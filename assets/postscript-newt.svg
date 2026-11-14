@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 440" fill="none" stroke="#594a38" stroke-linecap="round" stroke-linejoin="round">
+  <title>The Postscript Newt — to follow separately</title>
+  <desc>A spotted newt rests below a letter's signature. Its tail is missing. To the right, a separate little envelope contains the curled tail and a slip marked P.S.</desc>
+  <path d="M64 58L363 43L383 342L81 358Z" fill="#f9f3e5" stroke-width=".9"/>
+  <path d="M76 63L92 347M354 53L373 332" stroke-width=".45" opacity=".24"/>
+  <path d="M74 206L373 191" stroke-width=".65" opacity=".2"/>
+  <g stroke-width=".8" opacity=".3">
+    <path d="M102 91L320 80M105 110L335 98M106 128L315 117M107 146L339 134M109 164L287 155"/>
+  </g>
+  <path d="M123 207C137 191 145 184 142 201C139 217 151 213 158 200C153 217 170 211 177 201C170 214 190 211 198 207C209 201 213 214 224 206M130 224C168 216 207 221 250 209" stroke-width="1" opacity=".65"/>
+  <text x="115" y="277" fill="#857663" stroke="none" font-family="Baskerville,Georgia,serif" font-style="italic" font-size="17" transform="rotate(-3 115 277)">P.S.</text>
+  <ellipse cx="240" cy="298" rx="70" ry="10" fill="#8b7760" fill-opacity=".07" stroke="none"/>
+  <g stroke-width="1.1">
+    <path d="M209 270L198 251L180 249M182 249L174 242M182 249L173 251M185 250L182 257"/>
+    <path d="M211 291L195 308L176 307M179 307L170 302M179 308L171 313M184 309L179 318"/>
+    <path d="M265 270L280 249L296 250M292 250L301 243M293 251L304 252M288 252L297 260"/>
+    <path d="M265 289L277 308L296 312M291 312L302 307M292 313L300 319M286 312L290 323"/>
+  </g>
+  <path d="M178 270C170 272 169 282 177 287C186 294 197 289 206 290C223 294 245 298 264 290L280 283L282 275L269 271C247 261 225 264 210 270C198 268 188 266 178 270Z" fill="#b3aa87" fill-opacity=".62" stroke-width="1.15"/>
+  <path d="M184 285C192 288 199 285 205 286M213 282C231 287 250 287 269 279" stroke-width=".6" opacity=".55"/>
+  <circle cx="181" cy="275" r="1.7" fill="#594a38" stroke="none"/>
+  <path d="M173 280L180 280" stroke-width=".55"/>
+  <g fill="#67583e" stroke="none" opacity=".5">
+    <ellipse cx="214" cy="276" rx="2.3" ry="1.5"/>
+    <ellipse cx="228" cy="273" rx="2.8" ry="1.7"/>
+    <ellipse cx="242" cy="272" rx="2.2" ry="1.5"/>
+    <ellipse cx="255" cy="276" rx="2.9" ry="1.7"/>
+    <ellipse cx="235" cy="289" rx="2.4" ry="1.5"/>
+    <ellipse cx="250" cy="288" rx="2.5" ry="1.5"/>
+    <ellipse cx="221" cy="286" rx="1.7" ry="1.2"/>
+  </g>
+  <path d="M280 275L279 282" stroke="#936c54" stroke-width=".8"/>
+  <path d="M307 278C338 278 347 258 369 260" stroke-width=".65" stroke-dasharray="2 5" opacity=".4"/>
+  <g transform="rotate(7 460 295)">
+    <path d="M379 263L459 203L543 263L536 355L386 355Z" fill="#e9dfcd" stroke-width=".85"/>
+    <path d="M394 242L520 242L520 339L394 339Z" fill="#f9f3e5" stroke-width=".7"/>
+    <text x="409" y="267" fill="#857663" stroke="none" font-family="Baskerville,Georgia,serif" font-style="italic" font-size="15">P.S.</text>
+    <path d="M453 290C451 274 468 262 482 272C494 281 484 298 475 301C492 298 505 285 498 271C491 253 470 252 457 264C447 272 445 284 446 291Z" fill="#b3aa87" fill-opacity=".62" stroke-width="1"/>
+    <path d="M453 283C455 269 472 259 484 269" stroke-width=".55" opacity=".4"/>
+    <path d="M379 263L456 316L543 263L536 355L386 355Z" fill="#f2e7d4" stroke-width=".85"/>
+    <path d="M386 355L433 307M536 355L483 306" stroke-width=".6" opacity=".6"/>
+    <path d="M391 351L433 312" stroke="#829783" stroke-width="4" opacity=".15"/>
+  </g>
+  <text x="461" y="389" text-anchor="middle" fill="#857663" stroke="none" font-family="Georgia,serif" font-style="italic" font-size="10">the following morning</text>
+  <path d="M114 413H486" stroke-width=".65"/>
+</svg>
