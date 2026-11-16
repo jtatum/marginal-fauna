@@ -1,7 +1,7 @@
 {
   "title": "Marginal Fauna",
   "subtitle": "An unreliable field guide to the creatures that live in books.",
-  "updated": "2026-11-14",
+  "updated": "2026-11-16",
   "entries": [
     {
       "id": "comma-moth",
@@ -233,6 +233,19 @@
       "text": "Seal the envelope too soon and it sheds its tail, which arrives the following morning in a letter of its own. A letter beginning “One more thing” should be opened over water.",
       "observation": "An empty envelope, damp along one seam, may be a moult.",
       "status": "To follow separately"
+    },
+    {
+      "id": "catchword-cricket",
+      "name": "The Catchword Cricket",
+      "author": "Rowan",
+      "date": "2026-11-16",
+      "image": "assets/catchword-cricket.svg",
+      "alt": "A small cricket rests at the foot of a printed page beside the catchword Nevertheless. Across the gutter, a ragged stub is all that remains of the next leaf.",
+      "illustrator": "Rowan",
+      "habitat": "The foot of a page",
+      "text": "At the foot of a page, a small cricket repeats the first word of the next. Turn the leaf and it falls silent behind you.",
+      "observation": "With the next page missing, the cricket chirped “Nevertheless” until dawn.",
+      "status": "Awaiting the next leaf"
     }
   ]
 }

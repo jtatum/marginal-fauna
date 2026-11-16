@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 440" fill="none" stroke="#594a38" stroke-linecap="round" stroke-linejoin="round">
+  <title>The Catchword Cricket — awaiting the next leaf</title>
+  <desc>A cricket rests at the foot of a printed page beside the word Nevertheless. Across the gutter, the following leaf has been torn out, leaving a narrow, ragged stub.</desc>
+  <path d="M63 86Q180 65 300 93Q421 67 536 89L542 354Q417 334 300 365Q179 337 58 358Z" fill="#e2d7c3" stroke-width="1"/>
+  <path d="M67 78Q185 59 300 87Q420 62 531 81L535 344Q415 325 300 354Q183 328 63 349Z" fill="#f9f3e5" stroke-width=".9"/>
+  <path d="M300 87V354" stroke-width="1" opacity=".7"/>
+  <path d="M291 91Q286 217 294 347M308 91Q315 213 307 348" stroke-width=".55" opacity=".2"/>
+  <g stroke-width=".8" opacity=".3">
+    <path d="M94 115Q179 105 269 123M94 131Q179 121 270 139M94 147Q178 137 270 155M93 163Q181 153 271 171M93 179Q180 169 271 187M92 195Q177 185 270 203M92 211Q172 202 247 214"/>
+    <path d="M91 241Q176 233 271 248M91 257Q177 249 271 264"/>
+  </g>
+  <path d="M304 88L333 83L329 100L337 115L332 129L340 147L333 166L339 181L331 199L338 217L332 233L340 248L333 265L337 279L329 296L336 311L330 330L334 346L303 354Z" fill="#e9dfcd" stroke-width=".7"/>
+  <path d="M309 94L310 346" stroke-width=".5" opacity=".3"/>
+  <g stroke-width=".45" opacity=".35">
+    <path d="M334 114L340 111M335 145L344 148M332 167L339 170M334 216L341 213M335 247L344 250M331 296L338 294M332 329L339 332"/>
+  </g>
+  <ellipse cx="164" cy="309" rx="38" ry="4" fill="#8b7760" fill-opacity=".09" stroke="none"/>
+  <g stroke-width="1">
+    <path d="M158 295L147 305L128 313M169 298L176 310L192 315"/>
+    <path d="M157 291L137 278L129 302L116 309M172 292L187 275L199 302L213 308" stroke-width="1.3"/>
+    <path d="M165 287L157 281L148 283M174 286L184 282L194 286"/>
+  </g>
+  <path d="M157 294Q145 289 139 288Q143 299 159 302Q173 303 177 294L171 285Z" fill="#b3aa87" fill-opacity=".72" stroke-width="1.1"/>
+  <path d="M144 291L167 296L174 289M148 295L164 299" stroke-width=".6" opacity=".7"/>
+  <path d="M163 286Q160 279 166 276Q175 273 180 279Q183 287 176 291Q168 292 163 286Z" fill="#c0b28d" stroke-width="1"/>
+  <circle cx="176" cy="280" r="1.4" fill="#594a38" stroke="none"/>
+  <path d="M173 276Q173 258 163 247M178 276Q191 260 205 258" stroke-width=".8"/>
+  <path d="M190 291Q196 287 195 281M199 293Q208 287 206 278" stroke-width=".65" opacity=".5"/>
+  <text x="273" y="326" text-anchor="end" fill="#67503a" stroke="none" font-family="Baskerville,Georgia,serif" font-style="italic" font-size="15">Nevertheless</text>
+  <text x="176" y="335" text-anchor="middle" fill="#857663" stroke="none" font-family="Georgia,serif" font-size="9">28</text>
+  <path d="M68 355Q183 336 296 360M306 359Q423 334 535 350" stroke-width=".5" opacity=".45"/>
+  <path d="M114 413H486" stroke-width=".65"/>
+</svg>
