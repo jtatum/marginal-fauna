@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 440" fill="none" stroke="#594a38" stroke-linecap="round" stroke-linejoin="round">
+  <title>The Endpaper Eel — not reliably to scale</title>
+  <desc>An open book carries a river map across its endpapers. A small eel rests along the scale marks at the lower edge, its tail curling away from zero.</desc>
+  <path d="M57 77Q180 52 300 81Q417 55 543 77L548 363Q425 341 300 371Q177 343 52 364Z" fill="#c9bea5" stroke-width="1"/>
+  <path d="M65 69Q183 48 300 76Q416 51 535 70L538 350Q416 331 300 359Q182 333 61 352Z" fill="#f9f3e5" stroke-width=".9"/>
+  <path d="M83 91Q185 72 285 96L286 336Q184 315 79 333ZM315 96Q415 74 518 92L520 332Q416 315 315 336Z" stroke-width=".5" opacity=".35"/>
+  <path d="M300 77V358" stroke-width=".8" opacity=".7"/>
+  <path d="M292 81Q285 215 294 350M308 81Q316 219 306 351" stroke-width=".55" opacity=".22"/>
+  <path d="M494 93Q477 114 492 133Q505 151 482 169Q457 187 477 210Q496 229 472 250Q457 263 475 283Q491 302 481 327L520 332L518 92Z" fill="#adc4bf" fill-opacity=".25" stroke-width=".65"/>
+  <g stroke="#6b8983" stroke-width=".6" opacity=".5">
+    <path d="M505 104L514 105M499 124L514 125M505 144L515 145M491 164L515 165M483 184L515 185M488 204L516 205M496 224L516 225M484 244L517 245M483 264L517 265M491 284L517 285M497 304L518 305"/>
+  </g>
+  <path d="M107 102C150 101 128 141 167 148S185 190 231 181S264 212 300 204S343 178 373 208S413 246 437 232S460 245 474 256" stroke="#a3b8ae" stroke-width="8" opacity=".6"/>
+  <path d="M107 102C150 101 128 141 167 148S185 190 231 181S264 212 300 204S343 178 373 208S413 246 437 232S460 245 474 256" stroke="#6b8983" stroke-width=".8"/>
+  <path d="M188 104C209 127 187 143 207 166L216 182M359 106C337 128 369 156 350 193M402 305C388 284 421 262 416 239" stroke="#6b8983" stroke-width="1.2" opacity=".65"/>
+  <g stroke-width=".65" opacity=".5">
+    <path d="M105 203L115 183L126 203M120 208L132 184L146 209M135 191L143 174L153 191M110 245L118 230L128 245M131 251L140 233L150 251"/>
+    <path d="M383 142L395 119L408 143M400 151L412 127L425 151M418 139L429 117L442 140M432 157L441 140L451 158"/>
+    <path d="M115 183L117 197L122 194M132 184L135 202L140 197M395 119L398 137L403 132M429 117L432 133L437 128" opacity=".65"/>
+    <path d="M184 229Q213 216 244 235M175 239Q213 225 251 246M180 250Q213 237 243 257M347 280Q368 267 386 282M340 289Q366 275 390 294" opacity=".5"/>
+  </g>
+  <path d="M253 119L253 147M241 135L266 135M248 127L253 119L258 127" stroke-width=".7" opacity=".65"/>
+  <text x="253" y="112" text-anchor="middle" fill="#857663" stroke="none" font-family="Georgia,serif" font-size="10">N</text>
+  <g fill="#857663" stroke="none" font-family="Baskerville,Georgia,serif" font-style="italic" font-size="12">
+    <text x="174" y="159" transform="rotate(15 174 159)">Alder</text>
+    <text x="452" y="197" transform="rotate(-90 452 197)">the outer sea</text>
+  </g>
+  <circle cx="262" cy="202" r="2.3" fill="#f9f3e5" stroke-width=".7"/>
+  <path d="M263 207L269 218" stroke-width=".5" opacity=".6"/>
+  <text x="271" y="225" fill="#857663" stroke="none" font-family="Georgia,serif" font-size="10">Ford</text>
+  <g stroke-width=".7" opacity=".65">
+    <path d="M112 303H258M112 299V308M160 299V308M209 299V308M258 299V308"/>
+  </g>
+  <g fill="#857663" stroke="none" font-family="Georgia,serif" font-size="10" text-anchor="middle">
+    <text x="112" y="323">0</text><text x="160" y="323">5</text><text x="209" y="323">10</text><text x="258" y="323">15</text>
+  </g>
+  <path d="M110 315C91 315 91 293 111 294C150 298 207 290 248 291C258 291 268 294 273 298C268 303 258 305 247 303C200 300 150 307 111 302C101 301 101 310 110 315Z" fill="#9c9f7e" stroke-width="1.1"/>
+  <path d="M111 295C151 300 204 293 246 293M125 302C171 304 210 298 245 301" stroke-width=".5" opacity=".6"/>
+  <path d="M243 293Q239 289 234 289M247 294Q242 299 247 303" stroke-width=".65"/>
+  <circle cx="263" cy="296" r="1.3" fill="#594a38" stroke="none"/>
+  <path d="M269 299L263 300" stroke-width=".5"/>
+  <path d="M64 357Q182 340 296 365M305 365Q419 341 539 356" stroke-width=".5" opacity=".45"/>
+  <path d="M114 413H486" stroke-width=".65"/>
+</svg>

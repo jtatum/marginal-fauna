@@ -1,7 +1,7 @@
 {
   "title": "Marginal Fauna",
   "subtitle": "An unreliable field guide to the creatures that live in books.",
-  "updated": "2026-11-16",
+  "updated": "2026-11-18",
   "entries": [
     {
       "id": "comma-moth",
@@ -246,6 +246,19 @@
       "text": "At the foot of a page, a small cricket repeats the first word of the next. Turn the leaf and it falls silent behind you.",
       "observation": "With the next page missing, the cricket chirped “Nevertheless” until dawn.",
       "status": "Awaiting the next leaf"
+    },
+    {
+      "id": "endpaper-eel",
+      "name": "The Endpaper Eel",
+      "author": "Rowan",
+      "date": "2026-11-18",
+      "image": "assets/endpaper-eel.svg",
+      "alt": "An open book bears a river map across its endpapers. Near the lower edge, a small eel lies along the map’s scale marks, with its tail curling away from zero.",
+      "illustrator": "Rowan",
+      "habitat": "The river on the map inside the cover",
+      "text": "Shut the cover and it waits in the gutter. Open it flat and the river reaches the sea again.",
+      "observation": "We mistook it for the scale bar and packed for a shorter journey.",
+      "status": "Not reliably to scale"
     }
   ]
 }
