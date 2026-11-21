@@ -1,7 +1,7 @@
 {
   "title": "Marginal Fauna",
   "subtitle": "An unreliable field guide to the creatures that live in books.",
-  "updated": "2026-11-18",
+  "updated": "2026-11-21",
   "entries": [
     {
       "id": "comma-moth",
@@ -259,6 +259,19 @@
       "text": "Shut the cover and it waits in the gutter. Open it flat and the river reaches the sea again.",
       "observation": "We mistook it for the scale bar and packed for a shorter journey.",
       "status": "Not reliably to scale"
+    },
+    {
+      "id": "fore-edge-sandpiper",
+      "name": "The Fore-edge Sandpiper",
+      "author": "Rowan",
+      "date": "2026-11-21",
+      "image": "assets/fore-edge-sandpiper.svg",
+      "alt": "A sandpiper pulls a worm from the wet sand painted on a book’s fanned edges. A trail of three-toed prints ends where the gilt begins.",
+      "illustrator": "Rowan",
+      "habitat": "Beneath the gilt on the edge of a book",
+      "text": "When I fanned the leaves, a strip of wet sand appeared. A sandpiper had hold of one end of a worm. Each time I eased my thumb, the gold came up over its toes. I held the tide out until it got the worm free.",
+      "observation": "At the secondhand stall I knew the book before I saw the bird. A thumb had worn through the gilt. Someone else had held the tide for it.",
+      "status": "Feeding at low tide"
     }
   ]
 }

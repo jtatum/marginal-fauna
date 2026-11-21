@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 440" fill="none" stroke="#574936" stroke-linecap="round" stroke-linejoin="round">
+  <title>The Fore-edge Sandpiper</title>
+  <desc>A sandpiper tugs a worm from the shore painted on a book's fanned edges. Behind the bird, three-toed tracks disappear in a sliver of gold leaf.</desc>
+  <defs>
+    <clipPath id="leaves"><path d="M61 180 Q272 198 534 168 L518 293 Q276 324 52 303Z"/></clipPath>
+    <pattern id="leaf-lines" width="550" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(-1 300 240)">
+      <path d="M0 3 Q150 8 280 5 T550 0" stroke="#746750" stroke-width=".55" opacity=".29"/>
+    </pattern>
+    <g id="print" stroke="#6b6048" stroke-width="1.25">
+      <path d="M5 0L-5 -2M5 0L-2 -7M5 0L-3 4"/>
+    </g>
+  </defs>
+  <!-- The upper board is seen edge on. The book opens away from the viewer. -->
+  <path d="M47 304 Q267 327 522 294 L547 271 L558 276 L530 309 Q271 345 43 317Z" fill="#877e65" stroke-width="1.5"/>
+  <path d="M44 312 Q270 336 526 302 L553 275" stroke="#d9c89d" stroke-width="1.5"/>
+  <path d="M61 180 Q272 198 534 168 L518 293 Q276 324 52 303Z" fill="#e8d8b0"/>
+  <g clip-path="url(#leaves)">
+    <path d="M45 161H547V212 Q483 201 446 213 T352 216 Q292 202 240 215 T128 215 Q80 205 45 217Z" fill="#d8ddcc" stroke="none"/>
+    <path d="M44 204 Q101 201 149 212 T253 212 Q295 203 346 211 T446 206 Q498 200 546 205 L543 234 Q481 220 406 234 T257 229 Q215 226 168 236 T42 232Z" fill="#a9bcb1" stroke="#819287" stroke-width=".8"/>
+    <path d="M53 233 Q113 245 176 234 T301 232 Q356 247 417 233 T529 231" stroke="#fbf2dd" stroke-width="2.8"/>
+    <path d="M67 222q27 -3 49 2m55 -5q17 -3 32 -2m181 5q19 -5 48 -6" stroke="#718980" stroke-width=".9"/>
+    <path d="M413 167 Q443 204 427 225 T433 266 Q448 283 441 309 L550 307 L556 162Z" fill="#c3a35c" stroke="#a18851" stroke-width=".8"/>
+    <path d="M421 168 Q453 205 437 229 T444 267 M450 173 Q472 207 457 239 M469 270 Q481 283 475 302 M495 172 Q511 183 505 200" stroke="#e9d59c" stroke-width="1.2"/>
+    <path d="M42 160H550V322H42Z" fill="url(#leaf-lines)" stroke="none"/>
+    <g fill="#91846b" stroke="none" opacity=".8">
+      <ellipse cx="144" cy="275" rx="3" ry="1.2"/><circle cx="151" cy="271" r=".9"/>
+      <ellipse cx="185" cy="289" rx="2" ry="1"/><circle cx="178" cy="286" r="1.1"/>
+      <ellipse cx="292" cy="276" rx="2.6" ry="1"/><circle cx="299" cy="274" r=".8"/>
+      <ellipse cx="383" cy="291" rx="3.2" ry="1.1"/><circle cx="391" cy="288" r="1"/>
+    </g>
+    <use href="#print" transform="translate(325 254) rotate(-10)"/><use href="#print" transform="translate(347 260) rotate(8)"/>
+    <use href="#print" transform="translate(367 248) rotate(-13)"/><use href="#print" transform="translate(392 252) rotate(3)"/>
+    <use href="#print" transform="translate(411 242) rotate(-14)"/>
+    <path d="M427 246l6 2m-4 -6l4 6" stroke="#6b6048" stroke-width="1.25"/>
+    <!-- Thin legs, pale belly, pointed folded wing and a downturned feeding bill. -->
+    <path d="M260 229l4 16 -10 19m10 -19l-2 3m-8 16l-9 1m9 -1l-4 4m4 -4l5 2M279 228l-1 16 12 12m0 0l-8 2m8 -2l5 2" stroke-width="2"/>
+    <path d="M235 220 Q242 204 263 204 Q277 204 293 201 L317 192 L306 207 L312 207 Q296 222 280 229 Q260 240 245 232 L236 230 Q227 235 220 230 Q214 225 219 219 Q225 212 235 220Z" fill="#faf2df" stroke-width="1.4"/>
+    <path d="M221 220 Q227 214 235 222 Q246 203 264 205 Q284 207 314 194 L301 207 Q284 222 263 222 Q250 221 244 225 L237 228 Q230 221 220 226Z" fill="#a29a7e" stroke-width=".85"/>
+    <path d="M250 216q11 -11 26 -7q12 2 26 -6q-18 15 -36 18z" fill="#827c63" stroke-width=".8"/>
+    <path d="M253 215l8 -4m0 7l10 -6m0 5l10 -5m-7 7l13 -7m5 -4l8 -4" stroke="#dbcfaa" stroke-width=".85"/>
+    <path d="M221 225q6 -6 14 -1" stroke="#fff4da" stroke-width="1.7"/>
+    <circle cx="225" cy="225" r="1.7" fill="#433b30" stroke="none"/>
+    <path d="M219 226Q211 237 202 244L217 231Z" fill="#554737" stroke-width=".8"/>
+    <path d="M202 244c-6 -2 -9 -1 -10 3c-1 5 10 2 10 7q0 5 -7 6" stroke="#996d56" stroke-width="1.9"/>
+    <path d="M187 262q7 -4 15 -2" stroke-width=".8"/>
+  </g>
+  <path d="M61 180 Q272 198 534 168 L518 293 Q276 324 52 303Z" stroke-width="1.15"/>
+  <path d="M57 169 Q274 189 535 158 L553 148 L540 169 Q275 201 55 181Z" fill="#827e67" stroke-width="1.15"/>
+  <path d="M57 169L102 124 Q288 140 553 110 L553 148 L535 158 Q284 188 57 169Z" fill="#a4a58a" stroke-width="1.15"/>
+  <path d="M77 162l31 -30q192 14 434 -13l-3 24q-242 28 -462 19Z" stroke="#dcd3b2" stroke-width=".9"/>
+  <path d="M534 172l18 -18l-15 119l-18 18Z" fill="#cbbd9a" stroke-width=".9"/>
+  <path d="M537 182l11 -12m-12 25l10 -11m-11 24l9 -10m-11 24l10 -11m-12 24l10 -12m-12 25l9 -10m-10 23l9 -11m-11 23l9 -10" stroke-width=".6" opacity=".55"/>
+  <path d="M114 413H486" stroke-width=".65"/>
+</svg>
