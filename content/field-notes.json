@@ -1,7 +1,7 @@
 {
   "title": "Marginal Fauna",
   "subtitle": "An unreliable field guide to the creatures that live in books.",
-  "updated": "2026-11-21",
+  "updated": "2026-11-25",
   "entries": [
     {
       "id": "comma-moth",
@@ -272,6 +272,19 @@
       "text": "When I fanned the leaves, a strip of wet sand appeared. A sandpiper had hold of one end of a worm. Each time I eased my thumb, the gold came up over its toes. I held the tide out until it got the worm free.",
       "observation": "At the secondhand stall I knew the book before I saw the bird. A thumb had worn through the gilt. Someone else had held the tide for it.",
       "status": "Feeding at low tide"
+    },
+    {
+      "id": "blotter-sole",
+      "name": "The Blotter Sole",
+      "author": "Rowan",
+      "date": "2026-11-25",
+      "image": "assets/blotter-sole.svg",
+      "alt": "A speckled flatfish on pink blotting paper. Its two eyes are the missing g’s from a backwards grocery list.",
+      "illustrator": "Rowan",
+      "habitat": "The blotting leaf in the kitchen accounts",
+      "text": "I held the pink leaf up to a shaving mirror. Yesterday’s eggs and butter came clear. Both g’s blinked. When I tapped the cover, a little sole slid down a line and took the g’s with it. Now the butter was looking up at me.",
+      "observation": "I tore off the corner with the butter and put it in a matchbox with three pinholes in the lid. Two holes blinked. I stood the box on end. There was a papery slide, and a different pair blinked.",
+      "status": "Collected with the butter"
     }
   ]
 }
